@@ -1,6 +1,6 @@
-INSTALLATION
+#INSTALLATION
 
-Install Commands for all dependencies:
+##Install Commands for all dependencies:
 
 sudo apt-get update && sudo apt-get upgrade && sudo rpi-update
 
@@ -32,7 +32,7 @@ git clone git://git.drogon.net/wiringPi
 cd wiringPi
 ./build
 
-Additional Steps:
+##Additional Steps:
 
 copy FindWiringPi.cmake to /usr/share/cmake-x.x/Modules
 
