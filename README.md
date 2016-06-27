@@ -50,4 +50,15 @@ cd wiringPi
 
 copy FindWiringPi.cmake to /usr/share/cmake-x.x/Modules
 
+#BUILDING THE PROJECT
+
+To build the project, clone this repository and use one of the provided build scripts to build the project:
+1. If you just want the normal linux build, just use this script:
+```{r, engine='sh', count_lines}
+./build.sh
+```
+2. If you are using OSX and want to code with Xcode, use this script:
+```{r, engine='sh', count_lines}
+./build_Xcode.sh
+```
 
