@@ -1,5 +1,7 @@
 #INSTALLATION
 
+Follow these steps, to install and set up all dependencies for the project
+
 ##1. Install commands for all dependencies:
 ```{r, engine='sh', count_lines}
 
