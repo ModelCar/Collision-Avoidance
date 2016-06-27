@@ -1,6 +1,6 @@
 #INSTALLATION
 
-##Install Commands for all dependencies:
+##1. Install commands for all dependencies:
 ```{r, engine='sh', count_lines}
 
 #general dependencies
@@ -44,7 +44,7 @@ cd wiringPi
 ./build 
 ```
 
-##Additional Steps:
+##2. Additional Steps:
 
 copy FindWiringPi.cmake to /usr/share/cmake-x.x/Modules
 
