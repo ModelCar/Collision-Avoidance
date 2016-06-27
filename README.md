@@ -3,7 +3,7 @@ This project implemented Collision Avoidance for the Iron Car.
 It uses the StereoVision code by last semester's Student Laurie Marceau.
 The code was refactored and updated to use OpenCV 3.1.0.
 
-If you want to dive into the functionality of my Collision Avoidance algorithms, see my presentation in *documentation/Slides/*
+If you want to dive into the functionality of my Collision Avoidance algorithms, see my presentations in *documentation/Slides/*
 
 #INSTALLATION
 
