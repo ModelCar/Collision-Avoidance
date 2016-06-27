@@ -61,4 +61,5 @@ To build the project, clone this repository and use one of the provided build sc
 ```{r, engine='sh', count_lines}
 ./build_Xcode.sh
 ```
+###3. If you want to use CLion from Jetbrains, just import the CMakeLists.txt file into CLion
 
