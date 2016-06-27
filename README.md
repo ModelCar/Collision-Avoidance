@@ -1,3 +1,10 @@
+#PROJECT OVERVIEW
+This project implemented Collision Avoidance for the Iron Car.
+It uses the StereoVision code by last semester's Student Laurie Marceau.
+The code was refactored and updated to use OpenCV 3.1.0.
+
+If you want to dive into the functionality of my Collision Avoidance algorithms, see my presentation in *documentation/Slides/*
+
 #INSTALLATION
 
 Follow these steps, to install and set up all dependencies for the project
@@ -61,5 +68,4 @@ To build the project, clone this repository and use one of the provided build sc
 ```{r, engine='sh', count_lines}
 ./build_Xcode.sh
 ```
-###3. If you want to use CLion from Jetbrains, just import the CMakeLists.txt file into CLion
-
+###3. If you want to use CLion from Jetbrains, import the CMakeLists.txt file into CLion
